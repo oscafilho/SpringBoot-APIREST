@@ -7,11 +7,6 @@ import org.springframework.data.web.config.EnableSpringDataWebSupport;
 
 import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
-
-/**
- Aplicação principal 
-*/
-
 @SpringBootApplication
 @EnableCaching
 @EnableSpringDataWebSupport
